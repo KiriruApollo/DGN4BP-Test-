@@ -5,7 +5,7 @@ header h1 { color:#28384D; margin-bottom:5px; }
 nav { background-color:#E9DFC9; padding:12px; text-align:center; }
 nav a { display:inline-block; color:#28384D; text-decoration:none; margin:5px 10px; font-weight:bold; }
 main { width:85%; max-width:1200px; margin:25px auto; }
-section { margin-bottom:35px; }
+section { margin-bottom:35px; } 
 h1,h2,h3 { color:#28384D; }
 main h2 { color:#526B83; }
 img { max-width:100%; height:auto; }
